@@ -34,7 +34,7 @@
     12. [Randomized Algorithms](#randomized-algorithms)
     13. [Branch and Bound Algorithms](#branch-and-bound-algorithms) -->
 
-## <p id="what-is-data-structure">Data Structure</p>
+<h2 id="what-is-data-structure">Data Structure</h2>
 
 A data structure is defined as a particular way of storing and organizing data on devices to use the data efficiently and effectively.
 
@@ -42,7 +42,7 @@ A data structure is defined as a particular way of storing and organizing data o
 
 An efficient data structure takes minimum memory space and requires minimum time to execute the data.
 
-## <p id="what-is-algorithms">Algorithms</p>
+<h2 id="what-is-algorithms">Algorithms</h2>
 
 Algorithm is defined as a process or set of well-defined instructions that are typically used to solve a particular group of problem or perform a specific type of calculation.
 
