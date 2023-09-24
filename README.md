@@ -3,7 +3,7 @@
 - [**What is Data Structure?**](#what-is-data-structure)
 - [**What is Algorithms?**](#what-is-algorithms)
 - [**How to Learn Data Structures and Algorithms from Scratch**](#how-to-learn-data-structures-and-algorithms-from-scratch)
-  - [**_Learn about Complexities_**](./complexities.md)
+  - [**_Learn about Complexities_**](./pages/complexities.md)
   <!-- - [**_Learn Data Structure_**](#learn-data-structure)
     1. [Array](#array)
     2. [String](#string)
