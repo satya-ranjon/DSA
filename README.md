@@ -48,7 +48,7 @@ Algorithm is defined as a process or set of well-defined instructions that are t
 
 - **It is a set of operations performed in a step-by-step manner to execute a task.**
 
-<h2 id="how-to-learn-data-structures-and-algorithms-from-scratch">How to start learning DSA?</h2>
+## <h2 id="how-to-learn-data-structures-and-algorithms-from-scratch">How to start learning DSA? </h2>
 
 The complete process to learn DSA from scratch can be broken into 4 parts:
 
