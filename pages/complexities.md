@@ -1,3 +1,5 @@
+[**< Back**](/README.md)
+
 # Complexities
 
 The primary purpose of using DSA is to solve the problem effectively and efficiently.
@@ -17,7 +19,9 @@ In DSA the term auxillary space is used to refer to additional space used in the
 
 Then how to determine which one is efficient? The answer is the use of **_asymptotic notation._**
 
-    Asymptotic notation is mathematical tool that calculates the time required in terms of the input size and does not required the code executed.
+    Asymptotic notation is mathematical tool
+    that calculates the time required in terms of the
+    input size and does not required the code executed.
 
 It neglects the system-dependent constants and is related to only the number of modular operation being performed in the whole program. The following 2 asymptotic notations are mostly used to represent the time complexity.
 
