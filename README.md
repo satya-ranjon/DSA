@@ -2,10 +2,11 @@
 
 - [**What is Data Structure?**](#what-is-data-structure)
 - [**What is Algorithms?**](#what-is-algorithms)
-- [**How to Learn Data Structures and Algorithms from Scratch**](#how-to-learn-data-structures-and-algorithms-from-scratch)
-  - [**_Learn about Complexities_**](./pages/complexities.md)
-  - [**_Learn Data Structure_**](#learn-data-structure)
-    1. [Array](./pages/array.md)
+- [**_Learn about Complexities_**](./pages/complexities.md)
+
+## Learn Data Structure
+
+1. [_**Array**_](./pages/array.md)
 
 <h2 id="what-is-data-structure">Data Structure</h2>
 
