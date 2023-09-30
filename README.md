@@ -6,7 +6,9 @@
 
 ## Learn Data Structure
 
-1. [_**Array**_](./pages/array.md)
+1. [_**Array**_](./pages/array/array.md)
+   1. [_**Sub-Array**_](./pages/array/subarray.md)
+   2. [_**Sub-Sequence**_](./pages/array/subsequence.md)
 
 <h2 id="what-is-data-structure">Data Structure</h2>
 
