@@ -2,9 +2,11 @@
 
 # Sub-Array
 
-**_A Sub-array is a contiguous part of the array._**
+**_A Sub-set is a contiguous part of the array._**
 
-Formula _**$n*(n+1)/2$**_ in sub-array length,
+**Sub-set may not be contiguous and may not be order.**
+
+Formula _**n\*(n+1)/2**_ in sub-array length,
 **n = array length**
 
 ```doc
