@@ -1,6 +1,6 @@
 [**<-Back**](/README.md)
 
-# Sub-Array
+# Sub-sequence-Array
 
 **_Sub-sequence may not be contiguous but maintain the relative order._**
 
