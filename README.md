@@ -10,6 +10,8 @@
    1. [_**Sub-Array**_](./pages/array/subarray.md)
    2. [_**Sub-Sequence**_](./pages/array/subsequence.md)
    3. [_**Kadane's Algorithm**_](./pages/array/kadaneAlgorithm.md)
+2. [_**String**_](./pages/string/string.md)
+3. [_**Linked Lists**_](./pages/linkedlist/linkedlist.md)
 
 <h2 id="what-is-data-structure">Data Structure</h2>
 
