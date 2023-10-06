@@ -12,6 +12,9 @@
    3. [_**Kadane's Algorithm**_](./pages/array/kadaneAlgorithm.md)
 2. [_**String**_](./pages/string/string.md)
 3. [_**Linked Lists**_](./pages/linkedlist/linkedlist.md)
+   1. [_**Singly linked list**_](./pages/linkedlist/singlylinkedlist.md)
+   - **_Basic Operations:_**
+     - [_**Insertion in Linked List**_](./pages/linkedlist/insertion.md)
 
 <h2 id="what-is-data-structure">Data Structure</h2>
 
